@@ -1,6 +1,6 @@
 # LESS
 
-标签（空格分隔）： less mixins 
+less mixins 
 
 ---
 
